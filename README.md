@@ -28,7 +28,7 @@ It visualizes **price trends** of selected Indian bank stocks over time, allowin
 - NSE India Website
 ---
 
-Check the live dasboard on Tableau Public: https://public.tableau.com/views/StockMarketAnalysisDashboard_17505023884840/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+👉 [**Check the live dashboard on Tableau Public**](https://public.tableau.com/views/StockMarketAnalysisDashboard_17505023884840/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## 💻 How to Use
